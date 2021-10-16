@@ -10,17 +10,7 @@ This project now serves as a reference for RP servers in the future; all additio
 
 Remember to 🌟 this Github if you 💖 it.
 
-Open Roleplay has its own [Official Discord](https://discord.gg/WbzTJXW).
 
-### 👉 Sponsor this Project
-
-I have put a ton of work into this project. If you do not want to contribute code and you use this project at least buy me some coffee; I could use it.
-
--   [Github Sponsorship Program](https://www.github.com/sponsors/stuyk)
--   [PayPal Tipping](paypal.me/stuyk)
--   [Twitch Subscription](https://www.twitch.tv/stuyksoft/)
--   [Brave Browser Referral](https://brave.com/stu514)
--   [alt:V Discord](https://discord.gg/q3zUUEC)
 
 ### 📝 Licensing
 
